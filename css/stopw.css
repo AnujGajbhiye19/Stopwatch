@@ -1,3 +1,5 @@
+/* developed by Anuj Gajbhiye: https://www.linkedin.com/in/anuj-gajbhiye-6911a724a/ */
+
 * {
     margin: 0;
     padding: 0;
@@ -21,6 +23,7 @@ body {
     height: 450px;
     text-align: center;
     border-radius: 50%;
+    
     box-shadow: 6px 6px 10px #00000033,
                 inset 6px 6px 10px #ffffff0f;
 }
@@ -51,8 +54,13 @@ body {
     font-size: 14px;
     letter-spacing: 2px;
     transition: all .4s ;
+    
 }
  .container button:hover {
     background: #fa4700;
     color: #1d1c1c;
+ }
+
+ b, i{
+    color: blue;
  }
