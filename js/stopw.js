@@ -1,3 +1,5 @@
+// developed by Anuj Gajbhiye: https://www.linkedin.com/in/anuj-gajbhiye-6911a724a/ 
+
 const sec = document.querySelector('p #sec');
 const min = document.querySelector('p #min');
 const hr = document.querySelector('p #hr');
